@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:stevenaces?theme=rule34">
+<img align="right" style="transform: scale(0.8)" src="https://count.getloli.com/get/@:stevenaces?theme=rule34">
 
 ## Frontend Engineer — Steven
 
