@@ -6,11 +6,11 @@
 🚩 **二八定律**为一生信仰！  
 ❤️ **还差的远呢！** —— 《网球王子》
 
-### **技术栈:**
+### 主要技术栈
 
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=Vue)&nbsp;
-![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite)&nbsp;
+![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
+![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-%233776AB?logo=TypeScript&logoColor=white)
+![Vue](https://custom-icon-badges.demolab.com/badge/-Vue.js-%234FC08D?logo=Vue.js&logoColor=white)
 
 ### Github 活跃度
 
