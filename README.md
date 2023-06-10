@@ -10,13 +10,12 @@
 
 - 👉 热爱**技术**，**1** 年 **web 前端**。  
 - ❤️ **还差的远呢！** —— 《网球王子》
-
 ### Major Technology Stack
 
 ![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-%233776AB?logo=TypeScript&logoColor=white)
 ![Vue](https://custom-icon-badges.demolab.com/badge/-Vue.js-%234FC08D?logo=Vue.js&logoColor=white)
-
+- 📌 类型体操做题记录在 [这里](https://github.com/stevenaces/FE-Steven/blob/master/TypeScript/tdl-ts/README.md) 👈
 ### Github
 <!-- <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=stevenaces&count_private=true&show_icons=true"/> -->
 <p align="left">
