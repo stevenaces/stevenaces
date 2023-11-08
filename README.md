@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://github.com/stevenaces" style="display: block;width: 100%">
   <img style="display: inline-block;min-width: 40%;" height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenaces&show_icons=true&theme=vue&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img style="display: inline-block;min-width: 40%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenaces&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/>
+  <!-- <img style="display: inline-block;min-width: 40%;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenaces&theme=vue&langs_count=6&layout=compact&langs_count=8&theme=algolia"/> -->
 </a>
 </p>
 
@@ -46,6 +46,3 @@
 
 ### Version management
 ![Git](https://custom-icon-badges.demolab.com/badge/-Git-%23F05032?logo=Git&logoColor=white)
-## GitHub status
-
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
